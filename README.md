@@ -1,2 +1,3 @@
 # volly.js
-A lightweight web app hoster with inbuilt middleware.
+
+A fast, and lightweight backend web framework with inbuilt middleware.
